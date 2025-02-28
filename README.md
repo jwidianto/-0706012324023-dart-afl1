@@ -7,9 +7,13 @@
 ## 🚀 Cara Menjalankan:
 1. **Install Dart** jika belum ada:
 2. Clone repository:
+
         git clone https://github.com/jwidianto/-0706012324023-dart-afl1.git
+
         cd -0706012324023-dart-afl1
+
 3. Jalankan program:
+
         dart run main.dart
 
 
